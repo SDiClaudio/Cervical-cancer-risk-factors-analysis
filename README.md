@@ -1,3 +1,6 @@
+BLOG link
+https://shmron83.medium.com/cervical-cancer-risk-factors-analysis-a89771f6702d
+
 IMPORTS
 pandas, numpy, matplotlib.pyplot, seaborn, sklearn
 
